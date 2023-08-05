@@ -1,0 +1,12 @@
+.card-header {
+    border: none;
+    background-color: tomato;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.card-header:hover{
+    background-color: aqua;
+    transition: .5s;
+}
+
